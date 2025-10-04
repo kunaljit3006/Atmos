@@ -26,3 +26,8 @@
 
 1. Clone this repository  
    ```bash
+## 📸 Screenshots
+
+Here is a preview of the app UI:
+
+![Alris App UI](https://github.com/kunaljit3006/Atmos/blob/f86d65cc0844426c65d80c9abd05e72952e890b5/ui.jpg)
