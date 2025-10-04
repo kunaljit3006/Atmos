@@ -23,9 +23,9 @@
 ---
 
 ## 🚀 Installation & Setup  
-
-1. Clone this repository  
+1. **Clone the repository**
    ```bash
+   git clone https://github.com/kunaljit3006/Alris.git
 ## 📸 Screenshots
 
 Here is a preview of the app UI:
